@@ -1,0 +1,15 @@
+/workspaces/clouieoop/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/workspaces/clouieoop/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/workspaces/clouieoop/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/workspaces/clouieoop/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/workspaces/clouieoop/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/workspaces/clouieoop/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/clouieoop/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/workspaces/clouieoop/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/workspaces/clouieoop/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/workspaces/clouieoop/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json
+/workspaces/clouieoop/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/workspaces/clouieoop/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/workspaces/clouieoop/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/workspaces/clouieoop/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/workspaces/clouieoop/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
